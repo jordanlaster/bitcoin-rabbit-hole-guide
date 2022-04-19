@@ -168,7 +168,7 @@ This is a guide designed to help you learn what bitcoin is, how it works, and mu
 
 <br />
 
-![btcpayqrcodelogo.png](../imgs/btcpayqrcodelogo.png)
+![btcpayqrcodelogo.png](imgs/btcpayqrcodelogo.png)
 
 <br />
 
