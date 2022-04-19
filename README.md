@@ -60,7 +60,7 @@ This is a guide designed to help you learn what bitcoin is, how it works, and mu
 
 <br />
 
-- [Stack Sats](%F0%9F%90%87%20The%20Bitc%207a7a3/Stack%20Sats%20a4fe1.csv)
+- [Stack Sats](buy-and-earn/stack-sats.md)
 
 <br />
 
@@ -70,9 +70,9 @@ This is a guide designed to help you learn what bitcoin is, how it works, and mu
 
 <br />
 
-- [Bitcoin Wallets (Layer 1)](%F0%9F%90%87%20The%20Bitc%207a7a3/Bitcoin%20Wa%20faaca.csv)
+- [Bitcoin Wallets (Layer 1)](self-custody/bitcoin.md)
 
-- [Lightning Wallets (Layer 2)](%F0%9F%90%87%20The%20Bitc%207a7a3/Lightning%20%20cc92d.csv)
+- [Lightning Wallets (Layer 2)](self-custody/lightning.md)
 
 <br />
 
@@ -95,7 +95,7 @@ This is a guide designed to help you learn what bitcoin is, how it works, and mu
 
 <br />
 
-- [Privacy Resources](%F0%9F%90%87%20The%20Bitc%207a7a3/Privacy%20Re%20b3b1e.csv)
+- [Privacy Resources](privacy/privacy.md)
 
 <br />
 
@@ -105,7 +105,7 @@ This is a guide designed to help you learn what bitcoin is, how it works, and mu
 
 <br />
 
-- [Nodes](%F0%9F%90%87%20The%20Bitc%207a7a3/Nodes%20540a7.csv)
+- [Nodes](nodes/nodes.md)
 
 *Note: I have built or tried almost every node in the list above. Reach out if you need help!*
 
@@ -117,7 +117,7 @@ This is a guide designed to help you learn what bitcoin is, how it works, and mu
 
 <br />
 
-- [Mining](%F0%9F%90%87%20The%20Bitc%207a7a3/Mining%2078771.csv)
+- [Mining](mining/mining.md)
 
 <br />
 
@@ -127,7 +127,7 @@ This is a guide designed to help you learn what bitcoin is, how it works, and mu
 
 <br />
 
-- [Communities](%F0%9F%90%87%20The%20Bitc%207a7a3/Communitie%2024f00.csv)
+- [Communities](community/communities.md)
 
 <br />
 
@@ -137,7 +137,7 @@ This is a guide designed to help you learn what bitcoin is, how it works, and mu
 
 <br />
 
-- [Visualizations & Metrics](%F0%9F%90%87%20The%20Bitc%207a7a3/Visualizat%20d0649.csv)
+- [Visualizations & Metrics](viz-and-metrics/viz-and-metrics.md)
 
 <br />
 
@@ -147,7 +147,7 @@ This is a guide designed to help you learn what bitcoin is, how it works, and mu
 
 <br />
 
-- [Business](%F0%9F%90%87%20The%20Bitc%207a7a3/Business%205a2e0.csv)
+- [Business](business/business.md)
 
 <br />
 
@@ -157,7 +157,7 @@ This is a guide designed to help you learn what bitcoin is, how it works, and mu
 
 <br />
 
-- [Spending Bitcoin](%F0%9F%90%87%20The%20Bitc%207a7a3/Spending%20B%20644a2.csv)
+- [Spending Bitcoin](spending/spending.md)
 
 *Note: spending bitcoin may incurs taxes...for now ;)*
 
