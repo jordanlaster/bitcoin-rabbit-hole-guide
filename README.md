@@ -7,10 +7,11 @@
 This is a guide designed to help you learn what bitcoin is, how it works, and much more. You can learn as much or as little as you'd like. The journey is entirely yours!
 
 - If you have Notion, you can duplicate this guide into your workspace to interact with it.
-- Markdown version and code can be found here [here](https](https://github.com/thecallousedcoin/buddylasta/blob/gh-pages/markdown/The-Bitcoin-Rabbit-Hole-Guide.md))
+- Markdown version and code can be found [here](https](https://github.com/thecallousedcoin/bitcoin-rabbit-hole-guide))
 - Pdf version (pdf) of this guide can be downloaded [here](https://www.buddylasta.com/pdfs/The-Bitcoin-Rabbit-Hole-Guide.pdf).
 - Excel version (xlsx) version of this guide can be downloaded [here](https://www.buddylasta.com/xlsx/The-Bitcoin-Rabbit-Hole-Guide.xlsx).
 - OpenDocument (ods) version of this guide can be downloaded [here](https://www.buddylasta.com/ods/The-Bitcoin-Rabbit-Hole-Guide.ods).
+- Used this [tool](https://www.tablesgenerator.com/markdown_tables) to create markdown tables
 
 <br />
 
@@ -21,7 +22,7 @@ This is a guide designed to help you learn what bitcoin is, how it works, and mu
 
 <br />
 
-- [Bitcoin Fundamentals](../markdown/bitcoin-fundamentals.md)
+- [Bitcoin Fundamentals](what-is-bitcoin/fundamentals.md)
 
 <br />
 
@@ -31,7 +32,7 @@ This is a guide designed to help you learn what bitcoin is, how it works, and mu
 
 <br />
 
-- [To Dos](../markdown/bitcoin-to-dos.md)
+- [To Dos](getting-started/to-dos.md)
 
 <br />
 
@@ -41,15 +42,15 @@ This is a guide designed to help you learn what bitcoin is, how it works, and mu
 
 <br />
 
-- [Articles](%F0%9F%90%87%20The%20Bitc%207a7a3/Articles%20dcedb.md)
+- [Articles](proof-of-work/articles.md)
 
-- [Books To Read](%F0%9F%90%87%20The%20Bitc%207a7a3/Books%20To%20R%20f0b0b.md)
+- [Books To Read](proof-of-work/books.md)
 
-- [Podcasts](%F0%9F%90%87%20The%20Bitc%207a7a3/Podcasts%202558b.md)
+- [Podcasts](proof-of-work/pods.md)
 
-- [Videos](%F0%9F%90%87%20The%20Bitc%207a7a3/Videos%200d7f3.md)
+- [Videos](proof-of-work/videos.md)
 
-- [Additional Resources](%F0%9F%90%87%20The%20Bitc%207a7a3/Additional%206ffcc.md)
+- [Additional Resources](proof-of-work/additional.md)
 
 <br />
 
