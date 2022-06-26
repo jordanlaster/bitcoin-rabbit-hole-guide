@@ -6,12 +6,7 @@
 
 This is a guide designed to help you learn what bitcoin is, how it works, and much more. You can learn as much or as little as you'd like. The journey is entirely yours!
 
-- Notion version of this guide can be found [here](https://callousedmind.notion.site/The-Bitcoin-Rabbit-Hole-7a7a3a219ba145e99d5c3b0c74670c78)
-- Markdown version and code can be found [here](https://github.com/thecallousedcoin/bitcoin-rabbit-hole-guide))
-- Pdf version (pdf) of this guide can be downloaded [here](https://www.buddylasta.com/pdfs/The-Bitcoin-Rabbit-Hole-Guide.pdf).
-- Excel version (xlsx) version of this guide can be downloaded [here](https://www.buddylasta.com/xlsx/The-Bitcoin-Rabbit-Hole-Guide.xlsx).
-- OpenDocument (ods) version of this guide can be downloaded [here](https://www.buddylasta.com/ods/The-Bitcoin-Rabbit-Hole-Guide.ods).
-- Used this [tool](https://www.tablesgenerator.com/markdown_tables) to create markdown tables
+*Note: I used this [tool](https://www.tablesgenerator.com/markdown_tables) to create the markdown tables in each section.*
 
 <br />
 
