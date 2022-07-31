@@ -1,7 +1,11 @@
-# 🐇 The Bitcoin Rabbit Hole 🐇
+# 🐇 The Bitcoin Rabbit Hole Guide 🐇
 
 👋🏽 Welcome to the Bitcoin Rabbit Hole! 
+
 <br />
+
+![rabbithole.png](imgs/rabbithole.png)
+
 <br />
 
 This is a guide designed to help you learn what bitcoin is, how it works, and much more. You can learn as much or as little as you'd like. The journey is entirely yours!
@@ -160,13 +164,7 @@ This is a guide designed to help you learn what bitcoin is, how it works, and mu
 
 ## Tips
 
-📌 If you found this curation of resources valuable, consider donating via [venmo](https://venmo.com/code?user_id=1689644865421312128&created=1644251275), [strike](http://strike.me/buddylasta), [paynym](https://paynym.is/+blackcherry7Ca), [btcpay server](https://btcpay.buddylasta.com/apps/hMgwCNdbsaXz6sfpwMjG6Bif4i8/pos), or by scanning the QR code below. Thank you in advance, I really appreciate it 🤠
+📌 If you found this curation of resources valuable, [consider donating](https://buddylasta.com/#donate). Thank you in advance, I really appreciate it 🤠
 
-<br />
-
-![btcpayqrcodelogo.png](imgs/btcpayqrcodelogo.png)
-
-<br />
-
-- The goal of this guide was to provide you with resources to help you along your bitcoin journey. There are hundreds more resources out there. DYOR to find them! One day, create and share your own!
-- I’m slowly adding more of my work to my website [buddylasta.com](https://www.buddylasta.com/). Check it out!
+## The End
+  The goal of this guide was to provide you with resources to help you along your bitcoin journey. There are thousands more resources out there. DYOR to find them. One day, create and share your own! You can find more of my work at [buddylasta.com](https://www.buddylasta.com/). Check it out!
