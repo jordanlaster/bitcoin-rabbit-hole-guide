@@ -4,10 +4,6 @@
 
 <br />
 
-![rabbithole.png](imgs/rabbithole.png)
-
-<br />
-
 This is a guide designed to help you learn what bitcoin is, how it works, and much more. You can learn as much or as little as you'd like. The journey is entirely yours!
 
 *Note: I used this [tool](https://www.tablesgenerator.com/markdown_tables) to create the markdown tables in each section.*
@@ -17,7 +13,7 @@ This is a guide designed to help you learn what bitcoin is, how it works, and mu
 ## **What is Bitcoin?**
 
 📌 
-[Read The Bitcoin Whitepaper](https://www.buddylasta.com/pdfs/bitcoin.pdf) written by bitcoin’s pseudonymous creator, Satoshi Nakamoto. Then check out the Bitcoin Fundamentals page below. After reading through the fundamentals, I recommend building on them with the resources in the “Getting Started” section.
+[Read The Bitcoin Whitepaper](https://bitcoin.org/en/bitcoin-paper) written by bitcoin’s pseudonymous creator, Satoshi Nakamoto. Then check out the Bitcoin Fundamentals page below. After reading through the fundamentals, I recommend building on them with the resources in the “Getting Started” section.
 
 <br />
 
@@ -167,4 +163,4 @@ This is a guide designed to help you learn what bitcoin is, how it works, and mu
 📌 If you found this curation of resources valuable, [consider donating](https://buddylasta.com/#donate). Thank you in advance, I really appreciate it 🤠
 
 ## The End
-  The goal of this guide was to provide you with resources to help you along your bitcoin journey. There are thousands more resources out there. DYOR to find them. One day, create and share your own! You can find more of my work at [buddylasta.com](https://www.buddylasta.com/). Check it out!
+  The goal of this guide was to provide you with resources to help you along your bitcoin journey. There are thousands more resources out there. DYOR to find them. One day, create and share your own! You can find more of my work at [buddylasta.com](https://buddylasta.com/). Check it out!
