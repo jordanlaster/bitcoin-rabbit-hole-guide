@@ -11,7 +11,7 @@ Lyn Alden is a traditional investor who became bullish on Bitcoin in 2020. Great
     
     Short introduction to bitcoin. One-pager.
     
-- [**#6 Why Bitcoin, The Series](https://tomerstrolight.medium.com/why-bitcoin-the-series-660fe20ec244):**
+- [**#6 Why Bitcoin, The Series**](https://tomerstrolight.medium.com/why-bitcoin-the-series-660fe20ec244):
     
     Series of articles/audio beautifully explaining Bitcoin. 
     
