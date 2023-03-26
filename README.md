@@ -160,7 +160,7 @@ This is a guide designed to help you learn what bitcoin is, how it works, and mu
 
 ## Tips
 
-📌 If you found this curation of resources valuable, [consider donating](https://buddylasta.com/#donate). Thank you in advance, I really appreciate it 🤠
+📌 If you found this curation of resources valuable, [consider donating](https://www.jordanlaster/contribute). Thank you in advance, I really appreciate it 🤠
 
 ## The End
-  The goal of this guide was to provide you with resources to help you along your bitcoin journey. There are thousands more resources out there. DYOR to find them. One day, create and share your own! You can find more of my work at [buddylasta.com](https://buddylasta.com/). Check it out!
+  The goal of this guide was to provide you with resources to help you along your bitcoin journey. There are thousands more resources out there. DYOR to find them. One day, create and share your own! You can find more of my work at [jordanlaster.com](https://www.jordanlaster.com/). Check it out!
